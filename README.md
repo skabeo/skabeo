@@ -1,5 +1,5 @@
 <h2> Hi, I'm Spencer Okyere!</h2>
-<p><em>Full stack student at <a href="http://www.unb.br">Microverse</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full stackstudent at <a href="http://www.unb.br">Microverse</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: black_okyere](https://img.shields.io/twitter/follow/skabeo?style=social)](https://twitter.com/black_okyere)
